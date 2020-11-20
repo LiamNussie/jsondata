@@ -1,0 +1,74 @@
+[
+                    {
+                        "id": 1,
+                        "name": "Casio Gunmetal Vintage inspired bracelet watch",
+                        "price": "$55.00",
+                        "image": "https://wrixty.netlify.app/img/casio1.jpg"
+                    },
+                    {
+                        "id": 2,
+                        "name": "Casio F-91W-1XY classic digital watch",
+                        "price": "$20.00",
+                        "image": "https://wrixty.netlify.app/img/casio2.jpg"
+                    },
+                    {
+                        "id": 3,
+                        "name": "Casio A163WA-1QES digital bracelet watch in silver",
+                        "price": "$33.00",
+                        "image": "https://wrixty.netlify.app/img/casio3.jpg"
+                    },
+                    {
+                        "id": 4,
+                        "name": "Casio LA670WEA-7EF silver mini digital watch",
+                        "price": "$30.00",
+                        "image": "https://wrixty.netlify.app/img/casio4.jpg"
+                    },
+                    {
+                        "id": 5,
+                        "name": "Casio A159WGEA-1EF gold digital watch",
+                        "price": "$60.00",
+                        "image": "https://wrixty.netlify.app/img/casio5.jpg"
+                    },
+                    {
+                        "id": 6,
+                        "name": "Casio LA680WEGA-1BER mini digital black dial watch",
+                        "price": "$25.00",
+                        "image": "https://wrixty.netlify.app/img/casio6.jpg"
+                    },
+                    {
+                        "id": 7,
+                        "name": "Casio LQ 400D 7AEF vintage style watch",
+                        "price": "$33.00",
+                        "image": "https://wrixty.netlify.app/img/casio7.jpg"
+                    },
+                    {
+                        "id": 8,
+                        "name": "Casio G-shock DW-5600DN-7 digital watch in white",
+                        "price": "$100.00",
+                        "image": "https://wrixty.netlify.app/img/casio8.jpg"
+                    },
+                    {
+                        "id": 9,
+                        "name": "Casio F-91WS-8EF digital watch in grey",
+                        "price": "$30.00",
+                        "image": "https://wrixty.netlify.app/img/casio9.jpg"
+                    },
+                    {
+                        "id": 10,
+                        "name": "Casio Baby G BA-110TM-1A resin watch in black",
+                        "price": "$109.00",
+                        "image": "https://wrixty.netlify.app/img/casio10.jpg"
+                    },
+                    {
+                        "id": 11,
+                        "name": "Casio digital leather watch in cream",
+                        "price": "$49.00",
+                        "image": "https://wrixty.netlify.app/img/casio11.jpg"
+                    },
+                    {
+                        "id": 12,
+                        "name": "Casio G Shock digital watch in pink GMD-8800",
+                        "price": "$99.00",
+                        "image": "https://wrixty.netlify.app/img/casio12.jpg"
+                    }
+                ]
